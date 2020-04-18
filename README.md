@@ -1,6 +1,10 @@
 Graph-based Automated Phase Segmentation (GPhase)
 Last modified 01/25/2017
 Version 1.0
+Zheng Xiong and Jianjun Hu
+Machine Learning and Evolution Laboratory
+University of South Carolina
+
 
 ================================================
 Copyright (C) 2017 University of South Carolina
