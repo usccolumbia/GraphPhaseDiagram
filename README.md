@@ -29,7 +29,7 @@ all copies or substantial portions of the Software.
 
 ================================================
 
-*** Citation ***
+### Citation
 
 Xiong, Zheng, Yinyan He, Jason R. Hattrick-Simpers, and Jianjun Hu. "Automated phase segmentation for large-scale X-ray diffraction data using a graph-based phase segmentation (GPhase) algorithm." ACS combinatorial science 19, no. 3 (2017): 137-144.
 
@@ -38,7 +38,7 @@ Li, Shaobo, Zheng Xiong, and Jianjun Hu. "Inferring phase diagrams from X-ray da
 
 ================================================
 
-*** Prerequisites ***
+### Prerequisites 
 
 GPhase depends on MATLAB engine api for Python:
 
